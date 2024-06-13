@@ -1,0 +1,4 @@
+com\example\controller\MyApp.class
+com\example\controller\MyController.class
+com\example\controller\WebSecurityConfigLocal.class
+com\example\controller\WebSecurityConfigDev.class
